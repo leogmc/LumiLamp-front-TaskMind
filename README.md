@@ -68,6 +68,6 @@ A estrutura foi desenvolvida de forma objetiva e funcional:
 Você pode clonar este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/lumilamp.git
+git clone https://github.com/leogmc/LumiLamp-front-TaskMind.git
 cd lumilamp
 
